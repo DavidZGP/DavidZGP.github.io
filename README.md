@@ -1,5 +1,5 @@
 # DavidZGP.github.io
-Tarea enfocada en crear una página personal para compartir lo aprendido en clase, incluyendo conceptos básicos de programación en Python, un ejemplo de código y una reflexión personal. También se mencionan las herramientas de inteligencia artificial usadas y el enlace final del sitio publicado.
+Tarea enfocada en crear una página personal para compartir lo aprendido en clase, incluyendo conceptos básicos de programación en Python, un ejemplo de código y una reflexión personal. y el enlace final del sitio publicado.
 
 Que Aprendimos en las Clases:
 En las clases aprendimos qué es un programa, entendiendo que es un conjunto de instrucciones que le indican a la computadora qué hacer paso a paso para resolver un problema. También vimos el concepto de algoritmo, que es la base de todo programa y representa la secuencia lógica de pasos que permiten llegar a una solución.
