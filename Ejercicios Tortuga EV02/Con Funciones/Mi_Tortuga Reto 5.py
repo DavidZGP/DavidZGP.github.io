@@ -1,4 +1,4 @@
-print ("reto5_tortuga")
+print ("reto 5 tortuga")
 pos_x = 0  # posición horizontal acumulada (columna donde termina la flecha '>')
 
 def adelante(pasos): # Función para mover la tortuga hacia adelante
