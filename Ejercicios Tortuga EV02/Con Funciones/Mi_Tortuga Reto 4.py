@@ -1,5 +1,5 @@
-# Variable global para recordar dónde termina la línea horizontal
-pos_x = 0
+print("Mi Tortuga Reto 4 - Funciones")
+pos_x = 0 # Variable global para la posición horizontal de la tortuga
 
 def adelante(pasos): # Función para mover la tortuga hacia adelante
     global pos_x  # Indica que usaremos la variable global pos_x
