@@ -1,10 +1,20 @@
 # DavidZGP.github.io
-Tarea enfocada en crear una página personal para compartir lo aprendido en clase, incluyendo conceptos básicos de programación en Python, un ejemplo de código y una reflexión personal. y el enlace final del sitio publicado.
+## **Páginas Personal — Proyectos y Aprendizajes en Python**
 
-Que Aprendimos en las Clases:
-En las clases aprendimos qué es un programa, entendiendo que es un conjunto de instrucciones que le indican a la computadora qué hacer paso a paso para resolver un problema. También vimos el concepto de algoritmo, que es la base de todo programa y representa la secuencia lógica de pasos que permiten llegar a una solución.
+Este repositorio alberga mi página personal, donde comparto lo que he aprendido en clase sobre programación en Python. Aquí explico conceptos esenciales, muestro un ejemplo de código y ofrezco mi reflexión personal sobre el proceso. Además, incluyo el enlace a la versión publicada del sitio.
 
-Otro tema importante fueron las variables, que sirven para almacenar datos y manipularlos dentro del código. Además, conocimos los tipos de datos, como los números, textos y valores lógicos (True o False), que permiten que el programa entienda qué tipo de información está manejando. También se habló de las estructuras de control, como las condicionales y los bucles, que ayudan a tomar decisiones o repetir acciones según sea necesario.
+## **Lo que aprendí en clase**
 
-Reflexión Personal:
-Aprender estos conceptos me ayudó a entender cómo piensan los programadores al resolver problemas. Me pareció interesante ver que la programación no solo es escribir código, sino también razonar paso a paso y planear soluciones lógicas. Siento que estoy desarrollando una forma más estructurada de pensar, y eso me motiva a seguir aprendiendo más sobre Python y el desarrollo de software.
+Programa y algoritmo: Un programa es un conjunto de instrucciones para que la computadora lleve a cabo tareas paso a paso. Un algoritmo es la base lógica detrás de ese programa: la secuencia ordenada de pasos necesaria para resolver un problema.
+
+Variables y tipos de datos: Trabajé con variables para almacenar y manipular información dentro del código. Aprendí sobre diferentes tipos de datos como números, cadenas de texto y valores booleanos (True / False).
+
+Estructuras de control: Profundicé en sentencias condicionales (if) y ciclos (bucles), que son fundamentales para tomar decisiones o repetir acciones según lo que necesite ejecutar el programa.
+
+## **Ejemplo de código**
+
+Como parte de la página, incluí un fragmento de código en Python que ejemplifica algunos de los conceptos aprendidos (variables, condicionales, etc.). Esto le da a la página un enfoque práctico y aplicable.
+
+## **Mi reflexión**
+
+Al aprender estos fundamentos, me di cuenta de que la programación no es solo escribir líneas de código, sino pensar de forma lógica y estructurada. Resolver problemas implica planear soluciones, descomponer tareas en pasos claros y anticipar qué va a suceder en cada etapa. Este proceso ha fortalecido mi forma de razonar y me ha motivado a seguir explorando Python y el desarrollo de software en general.
