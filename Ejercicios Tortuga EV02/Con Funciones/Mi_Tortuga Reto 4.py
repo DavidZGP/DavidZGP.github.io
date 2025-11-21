@@ -12,9 +12,7 @@ def abajo(pasos):  # Función para mover la tortuga hacia abajo
         print(" " * pos_x + "|") #
     print(" " * pos_x + "v")  # última línea es la flecha hacia abajo
 
-
-# -----------------------
-# Ejemplo solicitado:
+# Programa principal
 adelante(5) 
 abajo(3)
 
